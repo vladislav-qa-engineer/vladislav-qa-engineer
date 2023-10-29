@@ -16,14 +16,10 @@ Here are some ideas to get you started:
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/vladislav-qa-engineer/vladislav-qa-engineer/blob/main/README.md)
 [![en](https://img.shields.io/badge/lang-rus-blue.svg)](https://github.com/vladislav-qa-engineer/vladislav-qa-engineer/blob/main/README.rus.md)
 -->
-
 # Привет, меня зовут Владислав!
 
----
-
-### :man_technologist: Обо мне:
-
-Я начинающий QA инженер. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях
+Я начинающий QA инженер. Мое знакомство с IT началось когда я работал электриком. Появилась необходимость писать код для микроконтроллеров щитового оборудования. 
+Это меня увлекло и осенью 2022 года я записался и прошел интенсив в школе 21 от Сбера. Сейчас изучил теорию тестирования и дальше планирую изучать авто-тесты.
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
 
