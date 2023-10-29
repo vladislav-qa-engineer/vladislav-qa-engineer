@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/vladislav-qa-engineer/multilanguage-readme-pattern/blob/master/README.md)
-[![rus](https://img.shields.io/badge/lang-rus-blue.svg)](https://github.com/vladislav-qa-engineer/multilanguage-readme-pattern/blob/master/README.rus.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/vladislav-qa-engineer/vladislav-qa-engineer/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-rus-blue.svg)](https://github.com/vladislav-qa-engineer/vladislav-qa-engineer/blob/main/README.rus.md)
 
 ### Hi there 👋
 
