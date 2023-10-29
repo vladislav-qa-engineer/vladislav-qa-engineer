@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/vladislav-qa-engineer/multilanguage-readme-pattern/blob/master/README.md)
+[![rus](https://img.shields.io/badge/lang-rus-blue.svg)](https://github.com/vladislav-qa-engineer/multilanguage-readme-pattern/blob/master/README.rus.md)
+
 ### Hi there 👋
 
 <div align="center">
@@ -124,6 +127,9 @@
 -->
 <a href="https://linkedin.com/in/vladislav-v-zhurbin" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<a href="https://t.me/qa_engineer_vlad" target="_blank"><img src="src/images/telegram.svg" style="margin-bottom: 5px;" </a>
+ 
+
 <!--
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
