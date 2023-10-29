@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2020 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 21000 29700"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="29mm" height="7mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2900 700"
  xmlns:xlink="http://www.w3.org/1999/xlink"
- xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
- role="img"
- aria-label="LINKEDIN">
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
   <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
 	<font-face 
@@ -27,8 +25,8 @@ viewBox="0 0 21000 29700"
   <style type="text/css">
    <![CDATA[
     @font-face { font-family:"Arial";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
-    .fil2 {fill:#FEFEFE}
     .fil1 {fill:#FDFEFF}
+    .fil2 {fill:#FEFEFE}
     .fil0 {fill:#2CA5E0;fill-rule:nonzero}
     .fnt0 {font-weight:normal;font-size:282.22px;font-family:'Arial'}
    ]]>
@@ -37,9 +35,9 @@ viewBox="0 0 21000 29700"
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <g id="_1903114267136">
-   <rect class="fil0" x="9031.56" y="14479.58" width="2936.88" height="740.83"/>
+   <rect class="fil0" x="-18.44" y="-20.42" width="2936.88" height="740.83"/>
   </g>
-  <path class="fil1" d="M9818.68 14982.54c26,-28.99 99.27,-243.77 92.54,-278 -34.21,-5.45 -263.74,79.15 -271.54,93.53 -18.91,34.9 78.35,54.41 101.49,75.68 30.61,28.14 30.36,103.12 77.51,108.79z"/>
-  <text x="10060.19" y="14955.97"  class="fil2 fnt0">Telegram</text>
+  <path class="fil1" d="M768.68 482.54c26,-28.99 99.27,-243.77 92.54,-278 -34.21,-5.45 -263.74,79.15 -271.54,93.53 -18.91,34.9 78.35,54.41 101.49,75.68 30.61,28.14 30.36,103.12 77.51,108.79z"/>
+  <text x="1010.2" y="455.96"  class="fil2 fnt0">Telegram</text>
  </g>
 </svg>
