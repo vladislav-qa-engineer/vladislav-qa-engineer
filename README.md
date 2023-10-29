@@ -55,11 +55,11 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladvika2009&show_icons=true&locale=en&layout=compact" alt="vladvika2009" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladislav-qa-engineer&show_icons=true&locale=en&layout=compact" alt="vladvika2009" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladvika2009&show_icons=true&locale=en" alt="vladvika2009" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vladislav-qa-engineer&show_icons=true&locale=en" alt="vladvika2009" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladvika2009&" alt="vladvika2009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladislav-qa-engineer&" alt="vladvika2009" /></p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -113,8 +113,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/vladislav-qa-engineer" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <!--
 <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -124,8 +123,7 @@
 </a>
 -->
 <a href="https://linkedin.com/in/vladislav-v-zhurbin" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <!--
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
