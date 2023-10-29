@@ -14,10 +14,10 @@
 - 🌱 I’m currently learning [Skillbox QA engineer course](), [KARPOV.COURSES Docker](https://karpov.courses/docker), [SQL simulator](https://karpov.courses/simulator-sql)
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact:
   
 
 <br/>  
@@ -83,7 +83,7 @@
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://linkedin.com/in/vladislav-v-zhurbin" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
